@@ -53,6 +53,12 @@ body{
 h2{
     font-size: 12px;
     margin-left: 10px;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+h2 :hover{
+    color: whitesmoke;
 }
 
 #greg{
